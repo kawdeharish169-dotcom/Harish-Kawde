@@ -1,0 +1,6 @@
+{
+  "name": "Arrow Solve",
+  "description": "A brain-training logic puzzle game where you untangle arrows and clear boards through spatial reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
